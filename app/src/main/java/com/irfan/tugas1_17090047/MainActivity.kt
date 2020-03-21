@@ -13,7 +13,7 @@ fun main(args: Array<String>){
     println("========OUTPUT========")
 
     val hasil = """
-    Jadi Luas Segiiga : ${0.5*alas*tinggi}
+    Jadi Luas Segiiga : ${0.5*alas*tinggi} m2
     """.trimIndent()
     print(hasil)
 
